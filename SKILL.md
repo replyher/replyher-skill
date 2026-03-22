@@ -1,9 +1,10 @@
 ---
 name: replyher
 description: >
-  AI communication coach for dating, workplace & social scenarios.
-  Decodes the real meaning behind messages and crafts high-EQ replies.
-  Adaptive language — works in Chinese, English, and more.
+  AI communication coach for texting, dating, workplace & social scenarios.
+  Decodes hidden meaning in messages, crafts high-EQ replies with 5 styles.
+  Smart reply generator for WeChat, WhatsApp, iMessage, Telegram conversations.
+  Covers flirting, professional emails, family chat. 聊天回复助手 高情商回复 恋爱沟通
 metadata:
   openclaw:
     emoji: "💕"
