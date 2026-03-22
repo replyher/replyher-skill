@@ -22,5 +22,5 @@ npx clawhub publish "$DIR" --slug replyher --version "$VERSION" --changelog "$CH
 
 echo ""
 echo "✅ Done! Published v$VERSION to GitHub + ClawHub"
-echo "   GitHub:  https://github.com/imwyvern/replyher-skill"
+echo "   GitHub:  https://github.com/replyher/replyher-skill"
 echo "   ClawHub: https://clawhub.ai/skills/replyher"
